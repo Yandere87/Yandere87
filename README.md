@@ -14,6 +14,8 @@ My main goal is simple: make servers run smoother and stay online longer ⚙️
 - Configure and adapt gameplay plugins for real server use
 - Solve problems that appear only in production 😄
 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
 ## Tech Stack & Tools
 **Core**
 - Java (Minecraft backend & plugins)
@@ -29,10 +31,3 @@ My main goal is simple: make servers run smoother and stay online longer ⚙️
 **Systems**
 - 🐧 Linux (Ubuntu)
 - 🪟 Windows 11 Pro
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-</p>
