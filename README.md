@@ -1,4 +1,4 @@
-# Who Is - Yandere? ![Static Badge](https://img.shields.io/badge/Telegram?style=for-the-badge&logo=%2326A5E4&logoColor=Blue)
+# Who Is - Yandere? ![Static Badge](https://img.shields.io/badge/Yandere-orange)
 
 Technical administrator in the Minecraft field with over five years of experience.
 JVM-based plugin developer specializing in system design, server optimization, and infrastructure reliability.
