@@ -14,7 +14,7 @@ My main goal is simple: make servers run smoother and stay online longer ⚙️
 - Configure and adapt gameplay plugins for real server use
 - Solve problems that appear only in production 😄
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,py.kotlin,ae,pr,ps,git.github,linux,ubuntu,vscode.windows.visualstudio&theme=dark)](https://skillicons.dev)
 
 ## Tech Stack & Tools
 **Core**
