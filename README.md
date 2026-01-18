@@ -1,4 +1,4 @@
-# Who Is - Yandere? ![Static Badge](https://img.shields.io/badge/Yandere-%23FF5D00)
+# Who Is - Yandere? ![Static Badge](https://img.shields.io/badge/Yandere87-%23FF5D00)
 
 Technical server administrator & Minecraft backend developer.
 I focus on stability, performance, and fixing what breaks under load.
