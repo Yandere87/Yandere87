@@ -36,11 +36,6 @@ My main goal is simple: make servers run smoother and stay online longer ⚙️
 
   <!-- Editors -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
-
-  <!-- Adobe -->
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="42"/>
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" width="42"/>
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" width="42"/>
 </p>
 
 ## Tech Stack & Tools
