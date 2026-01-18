@@ -43,8 +43,6 @@ My main goal is simple: make servers run smoother and stay online longer ⚙️
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" width="42"/>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,py.kotlin,ae,pr,ps,git.github,linux,ubuntu,vscode.windows.visualstudio&theme=dark)](https://skillicons.dev)
-
 ## Tech Stack & Tools
 **Core**
 - Java (Minecraft backend & plugins)
