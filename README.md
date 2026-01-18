@@ -14,9 +14,18 @@ My main goal is simple: make servers run smoother and stay online longer ⚙️
 - Configure and adapt gameplay plugins for real server use
 - Solve problems that appear only in production 😄
 
-Tech Stack.
-Linux (Ubuntu/Debian/Arch). I use arch btw. 🫀
-VPN infra & networking (Reality, VLESS, WARP+, RemnaWave, 3x-ui).
-Telegram bots (aiogram), backend/API integration, automation, reverse-proxy (NGINX).
-Minecraft dev (Paper, Spring, ORMLite, Lombok, ACF, Okaeri-Configs 5.x, Towny API, Kyori Adventure, Gson).
-Gradle, GitHub Actions, SQLite/MySQL, Bash, modular plugin architecture, i18n (UTF-8, Cyrillic).
+## Tech Stack & Tools
+**Core**
+- Java (Minecraft backend & plugins)
+- Paper / Purpur
+- Velocity
+- Fabric
+
+**Plugins & APIs**
+- TownyAdvanced
+- TAB
+- Vault
+
+**Systems**
+- 🐧 Linux (Ubuntu)
+- 🪟 Windows 11 Pro
