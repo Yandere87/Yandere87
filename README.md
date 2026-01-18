@@ -23,12 +23,6 @@ My main goal is simple: make servers run smoother and stay online longer ⚙️
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
 
-  <!-- Build -->
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg](https://cdn.simpleicons.org/apachemaven)" width="42"/>
-
-  <!-- Minecraft -->
-  <img src="https://skillicons.dev/icons?i=minecraft" height="42"/>
-
   <!-- Systems -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="42"/>
