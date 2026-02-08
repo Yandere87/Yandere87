@@ -45,5 +45,5 @@ My main goal is simple: make servers run smoother and stay online longer ⚙️
 - Vault
 
 **Systems**
-- 🐧 Linux (Ubuntu)
+- 🐧 Arch Linux
 - 🪟 Windows 11 Pro
