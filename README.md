@@ -38,6 +38,8 @@ My main goal is simple: make servers run smoother and stay online longer ⚙️
 ![Maven](https://img.shields.io/badge/MAVEN-333333?style=for-the-badge&logo=apachemaven&logoColor=C71A22)
 ![VS Code](https://img.shields.io/badge/VS_CODE-333333?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4)
 
+![ALL](https://skillicons.dev/icons?i=java,js,mysql,arch,vscode)
+
 ### Minecraft Core & Plugins
 - **Cores & Proxies:** Paper / Purpur, Velocity, Fabric
 - **Plugins & APIs:** TownyAdvanced, TAB, Vault
