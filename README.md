@@ -33,6 +33,7 @@ My main goal is simple: make servers run smoother and stay online longer ⚙️
 ### OS & software
 ![Linux](https://img.shields.io/badge/LINUX-333333?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Arch Linux](https://img.shields.io/badge/ARCH_LINUX-333333?style=for-the-badge&logo=archlinux&logoColor=1793D1)
+![bspwm](https://img.shields.io/badge/bspwm-%232E2E2E.svg?style=for-the-badge&logo=bspwm&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/WINDOWS_11-333333?style=for-the-badge&logo=windows&logoColor=0078D4)
 ![Pterodactyl](https://img.shields.io/badge/PTERODACTYL-333333?style=for-the-badge&logo=pterodactyl&logoColor=0C7DCE)
 ![Maven](https://img.shields.io/badge/MAVEN-333333?style=for-the-badge&logo=apachemaven&logoColor=C71A22)
