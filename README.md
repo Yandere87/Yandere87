@@ -27,8 +27,9 @@ My main goal is simple: make servers run smoother and stay online longer ⚙️
 ![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MYSQL-333333?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![SQLite](https://img.shields.io/badge/SQLITE-333333?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ### OS & software
 ![Linux](https://img.shields.io/badge/LINUX-333333?style=for-the-badge&logo=linux&logoColor=FCC624)
