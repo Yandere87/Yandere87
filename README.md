@@ -14,43 +14,31 @@ My main goal is simple: make servers run smoother and stay online longer ⚙️
 - Configure and adapt gameplay plugins for real server use
 - Solve problems that appear only in production 😄
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="42"/>
-  <img src="https://cdn.simpleicons.org/pterodactyl/0C7DCE" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
-</p>
-
 ## Tech Stack & Tools
-**Core & Backend**
-- Java (Minecraft backend & plugins)
-- Node.js
-- Paper / Purpur
-- Velocity
-- Fabric
 
-**Databases**
-- 🐘 MySQL
-- 🪶 SQLite
+### Languages & platforms
+![Java](https://img.shields.io/badge/JAVA-111111?style=for-the-badge&logo=java&logoColor=ED8B00)
+![Kotlin](https://img.shields.io/badge/KOTLIN-111111?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/NODE.JS-111111?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Python](https://img.shields.io/badge/PYTHON-111111?style=for-the-badge&logo=python&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-**Plugins & APIs**
-- TownyAdvanced
-- TAB
-- Vault
+### Databases
+![MySQL](https://img.shields.io/badge/MYSQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLITE-111111?style=for-the-badge&logo=sqlite&logoColor=003B57)
 
-**Systems & Infrastructure**
-- 🐧 Arch Linux
-- 🪟 Windows 11 Pro
-- 🦖 Pterodactyl
+### OS & software
+![Linux](https://img.shields.io/badge/LINUX-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Arch Linux](https://img.shields.io/badge/ARCH_LINUX-111111?style=for-the-badge&logo=archlinux&logoColor=1793D1)
+![Ubuntu](https://img.shields.io/badge/UBUNTU-111111?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+![Windows 11](https://img.shields.io/badge/WINDOWS_11-111111?style=for-the-badge&logo=windows11&logoColor=0078D4)
+![Pterodactyl](https://img.shields.io/badge/PTERODACTYL-111111?style=for-the-badge&logo=pterodactyl&logoColor=0C7DCE)
+![Maven](https://img.shields.io/badge/MAVEN-111111?style=for-the-badge&logo=apachemaven&logoColor=C71A22)
+![VS Code](https://img.shields.io/badge/VS_CODE-111111?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4)
+
+### Minecraft Core & Plugins
+- **Cores & Proxies:** Paper / Purpur, Velocity, Fabric
+- **Plugins & APIs:** TownyAdvanced, TAB, Vault
