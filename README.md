@@ -20,13 +20,15 @@ My main goal is simple: make servers run smoother and stay online longer ⚙️
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-333333?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-333333?style=for-the-badge&logo=python&logoColor=3776AB)
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -40,12 +42,16 @@ My main goal is simple: make servers run smoother and stay online longer ⚙️
 
 ### OS & software
 ![Linux](https://img.shields.io/badge/LINUX-333333?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Arch Linux](https://img.shields.io/badge/ARCH_LINUX-333333?style=for-the-badge&logo=archlinux&logoColor=1793D1)
+![Arch](https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
 ![bspwm](https://img.shields.io/badge/bspwm-%232E2E2E.svg?style=for-the-badge&logo=bspwm&logoColor=white)
+![Alacritty](https://img.shields.io/badge/alacritty-%23F46D01.svg?style=for-the-badge&logo=alacritty&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/WINDOWS_11-333333?style=for-the-badge&logo=windows&logoColor=0078D4)
 ![Pterodactyl](https://img.shields.io/badge/PTERODACTYL-333333?style=for-the-badge&logo=pterodactyl&logoColor=0C7DCE)
 ![VS Code](https://img.shields.io/badge/VS_CODE-333333?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4)
 ![Aseprite](https://img.shields.io/badge/Aseprite-%23FFFFFF.svg?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 ![ALL](https://skillicons.dev/icons?i=java,js,mysql,arch,vscode)
