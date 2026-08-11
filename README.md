@@ -1,4 +1,4 @@
-# Who Is - Yandere? ![Static Badge](https://img.shields.io/badge/Yandere87-%23FF5D00)
+# Who Is - Yandere? ![Static Badge](https://img.shields.io/badge/Yandere89-%23FF5D00)
 
 Technical server administrator & Minecraft backend developer.
 I focus on stability, performance, and fixing what breaks under load.
@@ -15,7 +15,6 @@ My main goal is simple: make servers run smoother and stay online longer ⚙️
 - Solve problems that appear only in production 😄
 
 <p align="left">
-  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
@@ -23,12 +22,10 @@ My main goal is simple: make servers run smoother and stay online longer ⚙️
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
 
-  <!-- Systems -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="42"/>
 
-  <!-- Editors -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
 </p>
 
