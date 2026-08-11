@@ -41,7 +41,7 @@ My main goal is simple: make servers run smoother and stay online longer ⚙️
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### OS & software
-![Linux](https://img.shields.io/badge/LINUX-333333?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
 ![bspwm](https://img.shields.io/badge/bspwm-%232E2E2E.svg?style=for-the-badge&logo=bspwm&logoColor=white)
 ![Alacritty](https://img.shields.io/badge/alacritty-%23F46D01.svg?style=for-the-badge&logo=alacritty&logoColor=white)
@@ -52,9 +52,6 @@ My main goal is simple: make servers run smoother and stay online longer ⚙️
 ![VS Code](https://img.shields.io/badge/VS_CODE-333333?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4)
 ![Aseprite](https://img.shields.io/badge/Aseprite-%23FFFFFF.svg?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-![ALL](https://skillicons.dev/icons?i=java,js,mysql,arch,vscode)
 
 ### Minecraft Core & Plugins
 - **Cores & Proxies:** Paper / Purpur, Velocity, Fabric
